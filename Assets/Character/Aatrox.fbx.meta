@@ -1,0 +1,2496 @@
+fileFormatVersion: 2
+guid: 70069471bc346c646a81e66b717c468f
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: 700918890722492975
+    second: model|aatrox_attack1_model
+  - first:
+      74: -728477938651175708
+    second: model|aatrox_attack1_ult_model
+  - first:
+      74: -2092831870499349409
+    second: model|aatrox_attack2_model
+  - first:
+      74: -4636803141863627165
+    second: model|aatrox_attack2_ult_model
+  - first:
+      74: 7902335617877402570
+    second: model|aatrox_attack3_model
+  - first:
+      74: 8236261193914802173
+    second: model|aatrox_attack3_ult_model
+  - first:
+      74: 5669196314581379069
+    second: model|aatrox_channel_model
+  - first:
+      74: -434264779738173822
+    second: model|aatrox_channel_windup_model
+  - first:
+      74: -8681308183418664294
+    second: model|aatrox_crit_model
+  - first:
+      74: 3115470738276404372
+    second: model|aatrox_dance_loop_model
+  - first:
+      74: 4660213413868768212
+    second: model|aatrox_dance_windup_model
+  - first:
+      74: 4676530725182413557
+    second: model|aatrox_death_model
+  - first:
+      74: -5471454667301232550
+    second: model|aatrox_idle1_in_ult_model
+  - first:
+      74: 6708911141117422664
+    second: model|aatrox_idle1_model
+  - first:
+      74: 2286011158162172871
+    second: model|aatrox_idle1_ult_model
+  - first:
+      74: 9052131432788450978
+    second: model|aatrox_idle2_model
+  - first:
+      74: -6066476539631922895
+    second: model|aatrox_idle_in_model
+  - first:
+      74: -1887213927195628447
+    second: model|aatrox_joke_model
+  - first:
+      74: -1442527831674426371
+    second: model|aatrox_laugh_model
+  - first:
+      74: 5945161781260778181
+    second: model|aatrox_passive_death_model
+  - first:
+      74: 8039420865220315983
+    second: model|aatrox_recall_leadout_model
+  - first:
+      74: 6865943305971242326
+    second: model|aatrox_recall_model
+  - first:
+      74: -8707401211292312436
+    second: model|aatrox_recall_winddown_model
+  - first:
+      74: 2088351668814532050
+    second: model|aatrox_run2_in_model
+  - first:
+      74: -5657911186755618814
+    second: model|aatrox_run2_model
+  - first:
+      74: 2994765878535244387
+    second: model|aatrox_run_haste_in_model
+  - first:
+      74: 6417260247457824770
+    second: model|aatrox_run_haste_model
+  - first:
+      74: 4304656207457498331
+    second: model|aatrox_run_jog_in_model
+  - first:
+      74: -1397171235938222108
+    second: model|aatrox_run_model
+  - first:
+      74: 3853525355177708462
+    second: model|aatrox_run_ult_in_model
+  - first:
+      74: 2212049663757966744
+    second: model|aatrox_run_ult_model
+  - first:
+      74: 5854578574497223470
+    second: model|aatrox_spell1_close_model
+  - first:
+      74: 1625471273445717734
+    second: model|aatrox_spell1_model
+  - first:
+      74: -3387644231408119269
+    second: model|aatrox_spell2_model
+  - first:
+      74: 9220918816469385679
+    second: model|aatrox_spell2_ult_model
+  - first:
+      74: -4174751435749936458
+    second: model|aatrox_spell3_model
+  - first:
+      74: -993173423258350000
+    second: model|aatrox_spell3_ult_model
+  - first:
+      74: 1206087148688260498
+    second: model|aatrox_spell4_model
+  - first:
+      74: 2041151467163602869
+    second: model|aatrox_stunned_model
+  - first:
+      74: 5864554559079830651
+    second: model|aatrox_taunt_model
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: <Root Transform>
+    rigImportErrors: 
+    rigImportWarnings: "Avatar Rig Configuration mis-match. Inbetween bone rotation
+      in configuration does not match rotation in animation file:\n\t'L_KneeLower'
+      : rotation error = 12.063881 deg\n"
+    animationImportErrors: 
+    animationImportWarnings: "\nClip 'model|aatrox_attack1_model' has import animation
+      warnings that might lower retargeting quality:\nNote: Activate translation
+      DOF on avatar to improve retargeting quality.\n\t'L_Elbow' has translation
+      animation that will be discarded.\n\t'L_Hand' has translation animation that
+      will be discarded.\n\t'Pelvis' is inbetween humanoid transforms and has rotation
+      animation that will be discarded.\n\t'R_KneeUpper' has translation animation
+      that will be discarded.\n\t'R_KneeLower' is inbetween humanoid transforms and
+      has rotation animation that will be discarded.\n\t'R_Foot' has translation
+      animation that will be discarded.\n\t'L_KneeUpper' has translation animation
+      that will be discarded.\n\t'L_KneeLower' is inbetween humanoid transforms and
+      has rotation animation that will be discarded.\n\t'L_Foot' has translation
+      animation that will be discarded.\n\nClip 'model|aatrox_attack1_ult_model'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'Pelvis'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'R_KneeLower'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'L_KneeLower'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'model|aatrox_attack2_model' has import animation warnings that might lower
+      retargeting quality:\nNote: Activate translation DOF on avatar to improve retargeting
+      quality.\n\t'Pelvis' is inbetween humanoid transforms and has rotation animation
+      that will be discarded.\n\t'R_KneeUpper' has translation animation that will
+      be discarded.\n\t'R_KneeLower' is inbetween humanoid transforms and has rotation
+      animation that will be discarded.\n\t'R_Foot' has translation animation that
+      will be discarded.\n\t'L_KneeLower' is inbetween humanoid transforms and has
+      rotation animation that will be discarded.\n\nClip 'model|aatrox_attack2_ult_model'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'R_Elbow'
+      has translation animation that will be discarded.\n\t'R_Hand' has translation
+      animation that will be discarded.\n\t'Pelvis' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\t'R_KneeLower' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\t'L_KneeLower'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'model|aatrox_attack3_model' has import animation warnings that might lower
+      retargeting quality:\nNote: Activate translation DOF on avatar to improve retargeting
+      quality.\n\t'L_Clavicle' has translation animation that will be discarded.\n\t'R_Clavicle'
+      has translation animation that will be discarded.\n\t'Pelvis' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\t'R_KneeLower'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'L_KneeLower'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'model|aatrox_attack3_ult_model' has import animation warnings that might lower
+      retargeting quality:\nNote: Activate translation DOF on avatar to improve retargeting
+      quality.\n\t'L_Clavicle' has translation animation that will be discarded.\n\t'R_Clavicle'
+      has translation animation that will be discarded.\n\t'Pelvis' has translation
+      animation that will be discarded.\n\t'Pelvis' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\t'R_KneeUpper' has translation
+      animation that will be discarded.\n\t'R_KneeLower' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\t'R_Foot' has translation
+      animation that will be discarded.\n\t'L_KneeUpper' has translation animation
+      that will be discarded.\n\t'L_KneeLower' is inbetween humanoid transforms and
+      has rotation animation that will be discarded.\n\t'L_Foot' has translation
+      animation that will be discarded.\n\nClip 'model|aatrox_channel_model' has
+      import animation warnings that might lower retargeting quality:\nNote: Activate
+      translation DOF on avatar to improve retargeting quality.\n\t'R_KneeLower'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'L_KneeLower'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'model|aatrox_channel_windup_model' has import animation warnings that might
+      lower retargeting quality:\nNote: Activate translation DOF on avatar to improve
+      retargeting quality.\n\t'Pelvis' is inbetween humanoid transforms and has rotation
+      animation that will be discarded.\n\t'R_KneeUpper' has translation animation
+      that will be discarded.\n\t'R_KneeLower' is inbetween humanoid transforms and
+      has rotation animation that will be discarded.\n\t'R_Foot' has translation
+      animation that will be discarded.\n\t'L_KneeLower' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\nClip 'model|aatrox_crit_model'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'L_Elbow'
+      has translation animation that will be discarded.\n\t'L_Hand' has translation
+      animation that will be discarded.\n\t'Pelvis' has translation animation that
+      will be discarded.\n\t'Pelvis' is inbetween humanoid transforms and has rotation
+      animation that will be discarded.\n\t'R_KneeUpper' has translation animation
+      that will be discarded.\n\t'R_KneeLower' is inbetween humanoid transforms and
+      has rotation animation that will be discarded.\n\t'R_Foot' has translation
+      animation that will be discarded.\n\t'L_KneeUpper' has translation animation
+      that will be discarded.\n\t'L_KneeLower' is inbetween humanoid transforms and
+      has rotation animation that will be discarded.\n\t'L_Foot' has translation
+      animation that will be discarded.\n\nClip 'model|aatrox_dance_loop_model' has
+      import animation warnings that might lower retargeting quality:\nNote: Activate
+      translation DOF on avatar to improve retargeting quality.\n\t'Pelvis' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\t'R_KneeLower'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'L_KneeLower'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'model|aatrox_dance_windup_model' has import animation warnings that might
+      lower retargeting quality:\nNote: Activate translation DOF on avatar to improve
+      retargeting quality.\n\t'Spine1' has translation animation that will be discarded.\n\t'Spine2'
+      has translation animation that will be discarded.\n\t'Spine3' has translation
+      animation that will be discarded.\n\t'L_Clavicle' has translation animation
+      that will be discarded.\n\t'L_Hand' has translation animation that will be
+      discarded.\n\t'R_Clavicle' has translation animation that will be discarded.\n\t'Pelvis'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'R_KneeUpper'
+      has translation animation that will be discarded.\n\t'R_KneeLower' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\t'R_Foot'
+      has translation animation that will be discarded.\n\t'L_KneeUpper' has translation
+      animation that will be discarded.\n\t'L_KneeLower' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\t'L_Foot' has translation
+      animation that will be discarded.\n\nClip 'model|aatrox_death_model' has import
+      animation warnings that might lower retargeting quality:\nNote: Activate translation
+      DOF on avatar to improve retargeting quality.\n\t'Pelvis' is inbetween humanoid
+      transforms and has rotation animation that will be discarded.\n\t'R_KneeLower'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'L_KneeLower'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'model|aatrox_idle1_in_ult_model' has import animation warnings that might
+      lower retargeting quality:\nNote: Activate translation DOF on avatar to improve
+      retargeting quality.\n\t'Pelvis' is inbetween humanoid transforms and has rotation
+      animation that will be discarded.\n\t'R_KneeLower' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\t'L_KneeLower' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'model|aatrox_idle1_model' has import animation warnings that might lower retargeting
+      quality:\nNote: Activate translation DOF on avatar to improve retargeting quality.\n\t'R_KneeLower'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'L_KneeLower'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'model|aatrox_idle1_ult_model' has import animation warnings that might lower
+      retargeting quality:\nNote: Activate translation DOF on avatar to improve retargeting
+      quality.\n\t'R_KneeLower' is inbetween humanoid transforms and has rotation
+      animation that will be discarded.\n\t'L_KneeLower' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\nClip 'model|aatrox_idle2_model'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'Pelvis'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'R_KneeLower'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'L_KneeLower'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'model|aatrox_idle_in_model' has import animation warnings that might lower
+      retargeting quality:\nNote: Activate translation DOF on avatar to improve retargeting
+      quality.\n\t'Pelvis' is inbetween humanoid transforms and has rotation animation
+      that will be discarded.\n\t'R_KneeLower' is inbetween humanoid transforms and
+      has rotation animation that will be discarded.\n\t'L_KneeLower' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'model|aatrox_joke_model' has import animation warnings that might lower retargeting
+      quality:\nNote: Activate translation DOF on avatar to improve retargeting quality.\n\t'Pelvis'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'R_KneeLower'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'L_KneeLower'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'model|aatrox_laugh_model' has import animation warnings that might lower retargeting
+      quality:\nNote: Activate translation DOF on avatar to improve retargeting quality.\n\t'L_Clavicle'
+      has translation animation that will be discarded.\n\t'R_Clavicle' has translation
+      animation that will be discarded.\n\t'Pelvis' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\t'R_KneeLower' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\t'L_KneeLower'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'model|aatrox_passive_death_model' has import animation warnings that might
+      lower retargeting quality:\nNote: Activate translation DOF on avatar to improve
+      retargeting quality.\n\t'Pelvis' is inbetween humanoid transforms and has rotation
+      animation that will be discarded.\n\t'R_KneeLower' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\t'L_KneeLower' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'model|aatrox_recall_leadout_model' has import animation warnings that might
+      lower retargeting quality:\nNote: Activate translation DOF on avatar to improve
+      retargeting quality.\n\t'Pelvis' is inbetween humanoid transforms and has rotation
+      animation that will be discarded.\n\t'R_KneeLower' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\t'L_KneeLower' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'model|aatrox_recall_model' has import animation warnings that might lower
+      retargeting quality:\nNote: Activate translation DOF on avatar to improve retargeting
+      quality.\n\t'L_Ring1' has translation animation that will be discarded.\n\t'L_Pinky1'
+      has translation animation that will be discarded.\n\t'Pelvis' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\t'R_KneeLower'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'L_KneeLower'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'model|aatrox_recall_winddown_model' has import animation warnings that might
+      lower retargeting quality:\nNote: Activate translation DOF on avatar to improve
+      retargeting quality.\n\t'Pelvis' is inbetween humanoid transforms and has rotation
+      animation that will be discarded.\n\t'R_KneeLower' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\t'L_KneeLower' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'model|aatrox_run2_in_model' has import animation warnings that might lower
+      retargeting quality:\nNote: Activate translation DOF on avatar to improve retargeting
+      quality.\n\t'Spine3' has translation animation that will be discarded.\n\t'Head'
+      has translation animation that will be discarded.\n\t'Pelvis' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\t'R_KneeLower'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'L_KneeUpper'
+      has translation animation that will be discarded.\n\t'L_KneeLower' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\t'L_Foot'
+      has translation animation that will be discarded.\n\nClip 'model|aatrox_run2_model'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'Spine3'
+      has translation animation that will be discarded.\n\t'Head' has translation
+      animation that will be discarded.\n\t'R_KneeLower' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\t'L_KneeLower' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'model|aatrox_run_haste_in_model' has import animation warnings that might
+      lower retargeting quality:\nNote: Activate translation DOF on avatar to improve
+      retargeting quality.\n\t'L_Clavicle' has translation animation that will be
+      discarded.\n\t'R_Clavicle' has translation animation that will be discarded.\n\t'Pelvis'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'R_KneeLower'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'L_KneeLower'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'model|aatrox_run_haste_model' has import animation warnings that might lower
+      retargeting quality:\nNote: Activate translation DOF on avatar to improve retargeting
+      quality.\n\t'R_KneeLower' is inbetween humanoid transforms and has rotation
+      animation that will be discarded.\n\t'L_KneeLower' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\nClip 'model|aatrox_run_jog_in_model'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'Spine3'
+      has translation animation that will be discarded.\n\t'Head' has translation
+      animation that will be discarded.\n\t'Pelvis' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\t'R_KneeLower' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\t'L_KneeUpper'
+      has translation animation that will be discarded.\n\t'L_KneeLower' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\t'L_Foot'
+      has translation animation that will be discarded.\n\nClip 'model|aatrox_run_model'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'Spine3'
+      has translation animation that will be discarded.\n\t'Head' has translation
+      animation that will be discarded.\n\t'R_KneeLower' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\t'L_KneeLower' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'model|aatrox_run_ult_in_model' has import animation warnings that might lower
+      retargeting quality:\nNote: Activate translation DOF on avatar to improve retargeting
+      quality.\n\t'Pelvis' is inbetween humanoid transforms and has rotation animation
+      that will be discarded.\n\t'R_KneeLower' is inbetween humanoid transforms and
+      has rotation animation that will be discarded.\n\t'L_KneeLower' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'model|aatrox_run_ult_model' has import animation warnings that might lower
+      retargeting quality:\nNote: Activate translation DOF on avatar to improve retargeting
+      quality.\n\t'Pelvis' is inbetween humanoid transforms and has rotation animation
+      that will be discarded.\n\t'R_KneeLower' is inbetween humanoid transforms and
+      has rotation animation that will be discarded.\n\t'L_KneeLower' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'model|aatrox_spell1_close_model' has import animation warnings that might
+      lower retargeting quality:\nNote: Activate translation DOF on avatar to improve
+      retargeting quality.\n\t'L_Elbow' has translation animation that will be discarded.\n\t'L_Hand'
+      has translation animation that will be discarded.\n\t'Pelvis' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\t'R_KneeLower'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'L_KneeLower'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'model|aatrox_spell1_model' has import animation warnings that might lower
+      retargeting quality:\nNote: Activate translation DOF on avatar to improve retargeting
+      quality.\n\t'L_Elbow' has translation animation that will be discarded.\n\t'L_Hand'
+      has translation animation that will be discarded.\n\t'Pelvis' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\t'R_KneeLower'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'L_KneeLower'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'model|aatrox_spell2_model' has import animation warnings that might lower
+      retargeting quality:\nNote: Activate translation DOF on avatar to improve retargeting
+      quality.\n\t'L_Elbow' has translation animation that will be discarded.\n\t'L_Hand'
+      has translation animation that will be discarded.\n\t'Pelvis' has translation
+      animation that will be discarded.\n\t'Pelvis' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\t'R_KneeUpper' has translation
+      animation that will be discarded.\n\t'R_KneeLower' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\t'R_Foot' has translation
+      animation that will be discarded.\n\t'L_KneeUpper' has translation animation
+      that will be discarded.\n\t'L_KneeLower' is inbetween humanoid transforms and
+      has rotation animation that will be discarded.\n\t'L_Foot' has translation
+      animation that will be discarded.\n\nClip 'model|aatrox_spell2_ult_model' has
+      import animation warnings that might lower retargeting quality:\nNote: Activate
+      translation DOF on avatar to improve retargeting quality.\n\t'L_Elbow' has
+      translation animation that will be discarded.\n\t'L_Hand' has translation animation
+      that will be discarded.\n\t'Pelvis' has translation animation that will be
+      discarded.\n\t'Pelvis' is inbetween humanoid transforms and has rotation animation
+      that will be discarded.\n\t'R_KneeLower' is inbetween humanoid transforms and
+      has rotation animation that will be discarded.\n\t'L_KneeLower' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'model|aatrox_spell3_model' has import animation warnings that might lower
+      retargeting quality:\nNote: Activate translation DOF on avatar to improve retargeting
+      quality.\n\t'L_Clavicle' has translation animation that will be discarded.\n\t'L_Elbow'
+      has translation animation that will be discarded.\n\t'L_Hand' has translation
+      animation that will be discarded.\n\t'R_Clavicle' has translation animation
+      that will be discarded.\n\t'R_Elbow' has translation animation that will be
+      discarded.\n\t'R_Hand' has translation animation that will be discarded.\n\t'Pelvis'
+      has translation animation that will be discarded.\n\t'Pelvis' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\t'R_KneeUpper'
+      has translation animation that will be discarded.\n\t'R_KneeLower' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\t'R_Foot'
+      has translation animation that will be discarded.\n\t'L_KneeLower' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'model|aatrox_spell3_ult_model' has import animation warnings that might lower
+      retargeting quality:\nNote: Activate translation DOF on avatar to improve retargeting
+      quality.\n\t'L_Clavicle' has translation animation that will be discarded.\n\t'L_Elbow'
+      has translation animation that will be discarded.\n\t'L_Hand' has translation
+      animation that will be discarded.\n\t'R_Clavicle' has translation animation
+      that will be discarded.\n\t'R_Elbow' has translation animation that will be
+      discarded.\n\t'R_Hand' has translation animation that will be discarded.\n\t'Pelvis'
+      has translation animation that will be discarded.\n\t'Pelvis' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\t'R_KneeLower'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'L_KneeLower'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'model|aatrox_spell4_model' has import animation warnings that might lower
+      retargeting quality:\nNote: Activate translation DOF on avatar to improve retargeting
+      quality.\n\t'Pelvis' is inbetween humanoid transforms and has rotation animation
+      that will be discarded.\n\t'R_KneeLower' is inbetween humanoid transforms and
+      has rotation animation that will be discarded.\n\t'L_KneeLower' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'model|aatrox_stunned_model' has import animation warnings that might lower
+      retargeting quality:\nNote: Activate translation DOF on avatar to improve retargeting
+      quality.\n\t'Pelvis' is inbetween humanoid transforms and has rotation animation
+      that will be discarded.\n\t'R_KneeLower' is inbetween humanoid transforms and
+      has rotation animation that will be discarded.\n\t'L_KneeLower' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\nClip
+      'model|aatrox_taunt_model' has import animation warnings that might lower retargeting
+      quality:\nNote: Activate translation DOF on avatar to improve retargeting quality.\n\t'Pelvis'
+      has translation animation that will be discarded.\n\t'Pelvis' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\t'R_KneeLower'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'L_KneeLower'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n"
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: model|aatrox_attack1_model
+      takeName: model|aatrox_attack1_model
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 47
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: model|aatrox_attack1_ult_model
+      takeName: model|aatrox_attack1_ult_model
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 47
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: model|aatrox_attack2_model
+      takeName: model|aatrox_attack2_model
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 47
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: model|aatrox_attack2_ult_model
+      takeName: model|aatrox_attack2_ult_model
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 47
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: model|aatrox_attack3_model
+      takeName: model|aatrox_attack3_model
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 47
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: model|aatrox_attack3_ult_model
+      takeName: model|aatrox_attack3_ult_model
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 47
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: model|aatrox_channel_model
+      takeName: model|aatrox_channel_model
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: model|aatrox_channel_windup_model
+      takeName: model|aatrox_channel_windup_model
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 47
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: model|aatrox_crit_model
+      takeName: model|aatrox_crit_model
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 47
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: model|aatrox_dance_loop_model
+      takeName: model|aatrox_dance_loop_model
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 112
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: model|aatrox_dance_windup_model
+      takeName: model|aatrox_dance_windup_model
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 79
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: model|aatrox_death_model
+      takeName: model|aatrox_death_model
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 47
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: model|aatrox_idle1_in_ult_model
+      takeName: model|aatrox_idle1_in_ult_model
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 79
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: model|aatrox_idle1_model
+      takeName: model|aatrox_idle1_model
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 47
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: model|aatrox_idle1_ult_model
+      takeName: model|aatrox_idle1_ult_model
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 47
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: model|aatrox_idle2_model
+      takeName: model|aatrox_idle2_model
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 103
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: model|aatrox_idle_in_model
+      takeName: model|aatrox_idle_in_model
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 142
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: model|aatrox_joke_model
+      takeName: model|aatrox_joke_model
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 119
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: model|aatrox_laugh_model
+      takeName: model|aatrox_laugh_model
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 70
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: model|aatrox_passive_death_model
+      takeName: model|aatrox_passive_death_model
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 87
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: model|aatrox_recall_leadout_model
+      takeName: model|aatrox_recall_leadout_model
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 12
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: model|aatrox_recall_model
+      takeName: model|aatrox_recall_model
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 256
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: model|aatrox_recall_winddown_model
+      takeName: model|aatrox_recall_winddown_model
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 12
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: model|aatrox_run2_in_model
+      takeName: model|aatrox_run2_in_model
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 34
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: model|aatrox_run2_model
+      takeName: model|aatrox_run2_model
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: model|aatrox_run_haste_in_model
+      takeName: model|aatrox_run_haste_in_model
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 88
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: model|aatrox_run_haste_model
+      takeName: model|aatrox_run_haste_model
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 96
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: model|aatrox_run_jog_in_model
+      takeName: model|aatrox_run_jog_in_model
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: model|aatrox_run_model
+      takeName: model|aatrox_run_model
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 21
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: model|aatrox_run_ult_in_model
+      takeName: model|aatrox_run_ult_in_model
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 48
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: model|aatrox_run_ult_model
+      takeName: model|aatrox_run_ult_model
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: model|aatrox_spell1_close_model
+      takeName: model|aatrox_spell1_close_model
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 23
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: model|aatrox_spell1_model
+      takeName: model|aatrox_spell1_model
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 23
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: model|aatrox_spell2_model
+      takeName: model|aatrox_spell2_model
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 47
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: model|aatrox_spell2_ult_model
+      takeName: model|aatrox_spell2_ult_model
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 47
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: model|aatrox_spell3_model
+      takeName: model|aatrox_spell3_model
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 47
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: model|aatrox_spell3_ult_model
+      takeName: model|aatrox_spell3_ult_model
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 47
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: model|aatrox_spell4_model
+      takeName: model|aatrox_spell4_model
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 11
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: model|aatrox_stunned_model
+      takeName: model|aatrox_stunned_model
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 32
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: model|aatrox_taunt_model
+      takeName: model|aatrox_taunt_model
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human:
+    - boneName: Root
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: L_Hip
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: R_Hip
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: L_KneeUpper
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: R_KneeUpper
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: L_Foot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: R_Foot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Spine1
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Spine2
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: L_Clavicle
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: R_Clavicle
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: L_Shoulder
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: R_Shoulder
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: L_Elbow
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: R_Elbow
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: L_Hand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: R_Hand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: L_Toe
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: R_Toe
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: L_Thumb1
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: L_Thumb2
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: L_Index1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: L_Index2
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: L_Middle1
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: L_Middle2
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: L_Ring1
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: L_Ring2
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: L_Pinky1
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: L_Pinky2
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: R_Thumb1
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: R_Thumb2
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: R_Index1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: R_Index2
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: R_Middle1
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: R_Middle2
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: R_Ring1
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: R_Ring2
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: R_Pinky1
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: R_Pinky2
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Spine3
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Aatrox(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mesh_0
+      parentName: Aatrox(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.7071067, y: 0.000000030908616, z: 0.000000030908623, w: 0.7071068}
+      scale: {x: -100, y: -100, z: -100}
+    - name: model
+      parentName: Aatrox(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.7071067, y: 0.000000030908616, z: 0.000000030908623, w: 0.7071068}
+      scale: {x: -100, y: -100, z: -100}
+    - name: Root
+      parentName: model
+      position: {x: 0.001991806, y: -0.1303783, z: 1.3010113}
+      rotation: {x: 0.7071068, y: -0.0000000030869256, z: 0.0000000030869247, w: 0.7071068}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: Spine1
+      parentName: Root
+      position: {x: 0.0000019872189, y: 0.07111155, z: -0.0014754408}
+      rotation: {x: -0, y: 0.00000018626454, z: -0.0000000043655746, w: 1}
+      scale: {x: 1, y: 1.0000002, z: 1}
+    - name: Spine2
+      parentName: Spine1
+      position: {x: 0.0000019669533, y: 0.09958588, z: -0.014843253}
+      rotation: {x: 3.7269466e-16, y: -0.000000023283079, z: -0.0000000014551915, w: 1}
+      scale: {x: 1, y: 1.0000002, z: 1.0000002}
+    - name: Spine3
+      parentName: Spine2
+      position: {x: 0.0000019955635, y: 0.11024049, z: -0.019563658}
+      rotation: {x: 2.4733362e-15, y: 0.000000023283064, z: -0.000000016007107, w: 1}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: Neck
+      parentName: Spine3
+      position: {x: 0.0000020456314, y: 0.244942, z: -0.050861023}
+      rotation: {x: -4.4384535e-15, y: -0.00000006984918, z: 0.000000032014217, w: 1}
+      scale: {x: 1.0000001, y: 1.0000005, z: 1.0000005}
+    - name: Head
+      parentName: Neck
+      position: {x: 0.0000019860267, y: 0.07363775, z: 0.0074893497}
+      rotation: {x: 1.838062e-15, y: 0.000000034924582, z: -0.000000012732929, w: 1}
+      scale: {x: 1.0000005, y: 1.0000005, z: 1.0000004}
+    - name: C_Buffbone_Glb_Head_Loc
+      parentName: Head
+      position: {x: 0.0000019836425, y: 0.000018420516, z: -0.000007750988}
+      rotation: {x: 0.0000000032741845, y: 1, z: 6.7339183e-16, w: 0.0000000698492}
+      scale: {x: 1.0000002, y: 1.0000004, z: 1.0000001}
+    - name: R_Wing1
+      parentName: Spine3
+      position: {x: -0.09880462, y: 0.18537605, z: -0.2069912}
+      rotation: {x: -0.26512298, y: -0.3114894, z: 0.54413307, w: 0.73253226}
+      scale: {x: 1.0000002, y: 1.0000008, z: 1.0000002}
+    - name: R_Wing2
+      parentName: R_Wing1
+      position: {x: 0.000009527206, y: 0.29406226, z: 0.000018377305}
+      rotation: {x: -0.39545536, y: -0.0073510855, z: -0.31238064, w: -0.86370105}
+      scale: {x: 0.9999999, y: 1.0000002, z: 0.99999994}
+    - name: R_Wing3
+      parentName: R_Wing2
+      position: {x: 0.024059087, y: -0.000007727146, z: 0.000018024444}
+      rotation: {x: 0.000002264976, y: -0.0000010100191, z: 0.70710754, w: -0.707106}
+      scale: {x: 1.0000005, y: 1.0000008, z: 1.000001}
+    - name: R_Wing4
+      parentName: R_Wing3
+      position: {x: 0.0000074279305, y: 0.33843374, z: 0.000017852783}
+      rotation: {x: 0.09164525, y: 0.10889194, z: 0.29720825, w: 0.9441457}
+      scale: {x: 1.0000006, y: 1.0000011, z: 1.0000006}
+    - name: R_Wing5
+      parentName: R_Wing4
+      position: {x: 0.000009701252, y: 0.42260244, z: 0.000018558501}
+      rotation: {x: 0.00000010430809, y: -0.00000024586907, z: -0.00000019650899, w: 1}
+      scale: {x: 1, y: 1.0000006, z: 0.9999999}
+    - name: R_SubWing2_1
+      parentName: R_Wing2
+      position: {x: -0.00016199826, y: 0.031488016, z: -0.0010841179}
+      rotation: {x: -0.00049379456, y: 0.00056916976, z: 0.36194915, w: -0.9321975}
+      scale: {x: 1.0000008, y: 1.0000011, z: 1.0000017}
+    - name: R_SubWing2_2
+      parentName: R_SubWing2_1
+      position: {x: 0.000008844882, y: 0.25536296, z: 0.000018558501}
+      rotation: {x: -0.12682427, y: 0.0150795635, z: -0.19825077, w: -0.97179466}
+      scale: {x: 0.99999994, y: 1.0000007, z: 1}
+    - name: R_SubWing2_3
+      parentName: R_SubWing2_2
+      position: {x: 0.000006055832, y: 0.29223257, z: 0.000017910002}
+      rotation: {x: -0.0000005364417, y: 0.000000032596283, z: 0.00000011106019, w: 1}
+      scale: {x: 1.0000005, y: 1.0000005, z: 1.0000004}
+    - name: R_Wing_Web1
+      parentName: R_SubWing2_1
+      position: {x: -0.020876307, y: 0.1398828, z: -0.005860173}
+      rotation: {x: -0.5415817, y: 0.41925395, z: 0.5701846, w: 0.4536573}
+      scale: {x: 1.0000004, y: 0.9999997, z: 1.0000004}
+    - name: R_Wing_Web2
+      parentName: R_Wing_Web1
+      position: {x: 0.000008077622, y: 0.40572342, z: 0.000018157958}
+      rotation: {x: -0.03425483, y: 0.0030232966, z: 0.005279302, w: 0.9993947}
+      scale: {x: 1.0000004, y: 1.0000001, z: 1.0000005}
+    - name: R_Wing_Web3
+      parentName: R_Wing_Web2
+      position: {x: 0.000007122159, y: 0.42246526, z: 0.000018973351}
+      rotation: {x: -0.016818715, y: -0.054724842, z: -0.0089388015, w: 0.99831986}
+      scale: {x: 1.0000005, y: 1.0000001, z: 1.0000008}
+    - name: R_Wing_Web4
+      parentName: R_Wing_Web3
+      position: {x: 0.000007395744, y: 0.43294075, z: 0.00001858592}
+      rotation: {x: 0.000000031664957, y: 0.00000026449553, z: -0.000000107218476, w: 1}
+      scale: {x: 1, y: 0.9999999, z: 0.99999994}
+    - name: R_SubWing1_1
+      parentName: R_Wing2
+      position: {x: 0.020514121, y: 0.015898766, z: -0.00025752067}
+      rotation: {x: -0.035074644, y: 0.02049484, z: 0.4980264, w: -0.8662099}
+      scale: {x: 1.0000002, y: 1.0000012, z: 1.000001}
+    - name: R_SubWing1_2
+      parentName: R_SubWing1_1
+      position: {x: 0.0000073474644, y: 0.32411608, z: 0.000018072127}
+      rotation: {x: 0.08748261, y: 0.029364444, z: 0.22167881, w: 0.9707436}
+      scale: {x: 1.0000001, y: 1.0000006, z: 1.0000002}
+    - name: R_SubWing1_3
+      parentName: R_SubWing1_2
+      position: {x: 0.000009880066, y: 0.3431913, z: 0.000018806457}
+      rotation: {x: 0.00000051408983, y: -0.0000005941835, z: 0.00000045285537, w: 1}
+      scale: {x: 1.0000005, y: 1.0000008, z: 1.0000015}
+    - name: L_Clavicle
+      parentName: Spine3
+      position: {x: 0.03133658, y: 0.12828971, z: -0.0052437983}
+      rotation: {x: -0.4684549, y: -0.5280184, z: -0.54955333, w: 0.44692022}
+      scale: {x: 1.000001, y: 1.0000008, z: 1.0000005}
+    - name: L_Shoulder
+      parentName: L_Clavicle
+      position: {x: -0.103321075, y: 0.19907923, z: 0.027436279}
+      rotation: {x: -0.002739579, y: 0.08097239, z: 0.08004506, w: 0.99349326}
+      scale: {x: 1.0000002, y: 1, z: 1.0000002}
+    - name: L_Elbow
+      parentName: L_Shoulder
+      position: {x: -0.000007777214, y: 0.31922558, z: 0.000018253326}
+      rotation: {x: 0.0099270595, y: 0.0013406797, z: -0.029888019, w: 0.99950314}
+      scale: {x: 1.0000005, y: 1.0000005, z: 1.000001}
+    - name: L_Hand
+      parentName: L_Elbow
+      position: {x: -0.00000790596, y: 0.30035627, z: 0.000017704964}
+      rotation: {x: -0.49999717, y: -0.49999607, z: 0.4999545, w: 0.5000523}
+      scale: {x: 1, y: 1.0000001, z: 1.0000005}
+    - name: L_Thumb1
+      parentName: L_Hand
+      position: {x: 0.07280496, y: 0.07117167, z: -0.086422004}
+      rotation: {x: 0.6656772, y: 0.62029195, z: -0.2184738, w: -0.35267693}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1}
+    - name: L_Thumb2
+      parentName: L_Thumb1
+      position: {x: -0.000007615089, y: 0.106905185, z: 0.000018205643}
+      rotation: {x: 0.00000005960463, y: 0.00000014901158, z: 0.000000089406946, w: 1}
+      scale: {x: 0.9999998, y: 0.9999999, z: 1}
+    - name: L_Index1
+      parentName: L_Hand
+      position: {x: 0.18739656, y: 0.028149886, z: -0.077841766}
+      rotation: {x: 0.49591345, y: 0.650034, z: -0.39628792, w: 0.4177099}
+      scale: {x: 1, y: 1, z: 0.9999999}
+    - name: L_Index2
+      parentName: L_Index1
+      position: {x: -0.000007739067, y: 0.09752793, z: 0.00001803845}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.000001, y: 1, z: 1.0000006}
+    - name: L_Middle1
+      parentName: L_Hand
+      position: {x: 0.20280904, y: 0.008588161, z: -0.025717057}
+      rotation: {x: 0.455318, y: 0.574795, z: -0.4498766, w: 0.50981104}
+      scale: {x: 1.0000005, y: 1.0000001, z: 1.0000002}
+    - name: L_Middle2
+      parentName: L_Middle1
+      position: {x: -0.000007829666, y: 0.099929556, z: 0.000018286704}
+      rotation: {x: 0.00000028312203, y: 0.0000001490116, z: -0.0000002980232, w: 1}
+      scale: {x: 0.9999996, y: 1.0000004, z: 1.0000005}
+    - name: L_Ring1
+      parentName: L_Hand
+      position: {x: 0.19697204, y: 0.008634882, z: 0.024620151}
+      rotation: {x: 0.40838826, y: 0.48934674, z: -0.50709367, w: 0.58018523}
+      scale: {x: 1.0000004, y: 1.0000004, z: 1.0000006}
+    - name: L_Ring2
+      parentName: L_Ring1
+      position: {x: -0.0000076484675, y: 0.094943464, z: 0.0000181818}
+      rotation: {x: 0.00000029802322, y: 0.00000014901161, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1.0000005}
+    - name: L_Pinky1
+      parentName: L_Hand
+      position: {x: 0.18095432, y: 0.034307513, z: 0.07461847}
+      rotation: {x: 0.3278951, y: 0.3968475, z: -0.56321704, w: 0.64636177}
+      scale: {x: 0.99999994, y: 1.0000002, z: 1.0000001}
+    - name: L_Pinky2
+      parentName: L_Pinky1
+      position: {x: -0.000007681846, y: 0.08501701, z: 0.000018184184}
+      rotation: {x: 0.000000029802319, y: -0.0000001490116, z: -0, w: 1}
+      scale: {x: 1.0000002, y: 0.99999994, z: 1.0000005}
+    - name: Weapon
+      parentName: L_Hand
+      position: {x: 0.17169087, y: 0.10682253, z: 0.0122590065}
+      rotation: {x: 0.4531775, y: 0.6368621, z: -0.57439786, w: -0.24311301}
+      scale: {x: 1.0000008, y: 1.0000001, z: 1.0000007}
+    - name: Weapon_Blade1
+      parentName: Weapon
+      position: {x: -0.000007676631, y: 0.18087326, z: 0.00001807183}
+      rotation: {x: -0.000000052154057, y: -0.000000119209275, z: 0.000000119209275, w: -1}
+      scale: {x: 1.0000006, y: 1.0000001, z: 1.0000002}
+    - name: Weapon_Blade2
+      parentName: Weapon_Blade1
+      position: {x: -0.000007677078, y: 0.19198905, z: 0.000018086434}
+      rotation: {x: -0.000000119209275, y: 0.000000014901145, z: 0.000000059604623, w: 1}
+      scale: {x: 1.0000004, y: 1.0000005, z: 1.0000001}
+    - name: Weapon_Blade3
+      parentName: Weapon_Blade2
+      position: {x: -0.000007710457, y: 0.16973458, z: 0.000018100738}
+      rotation: {x: 0.000000119209275, y: -0.000000014901145, z: -0.000000059604623, w: 1}
+      scale: {x: 1.0000002, y: 0.9999999, z: 1.0000005}
+    - name: Weapon_Blade4
+      parentName: Weapon_Blade3
+      position: {x: -0.0000076484675, y: 0.18782625, z: 0.000018200873}
+      rotation: {x: -0, y: -0, z: 1.7763547e-15, w: 1}
+      scale: {x: 1.0000001, y: 1, z: 0.9999999}
+    - name: Weapon_Blade5
+      parentName: Weapon_Blade4
+      position: {x: -0.000007777214, y: 0.1725249, z: 0.000018105506}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000002, y: 1, z: 1.0000002}
+    - name: Buffbone_Glb_Weapon_1
+      parentName: Weapon_Blade5
+      position: {x: -0.000007753372, y: 0.88420796, z: 0.00001816988}
+      rotation: {x: 0.00000019645711, y: -0.0000002403696, z: -0.7072836, w: 0.7069299}
+      scale: {x: 0.9999999, y: 0.9999999, z: 0.99999976}
+    - name: L_Buffbone_Glb_Hand_Loc
+      parentName: L_Hand
+      position: {x: 0.000001964569, y: -0.000018320083, z: 0.000007724761}
+      rotation: {x: 0.010321155, y: -0.009739846, z: -0.0018149912, w: 0.9998977}
+      scale: {x: 1.0000006, y: 1, z: 1.0000004}
+    - name: R_Clavicle
+      parentName: Spine3
+      position: {x: -0.031309534, y: 0.12828967, z: -0.005243785}
+      rotation: {x: 0.54954845, y: -0.4469259, z: 0.46846434, w: 0.52801037}
+      scale: {x: 1.0000006, y: 1.0000005, z: 0.99999994}
+    - name: R_Shoulder
+      parentName: R_Clavicle
+      position: {x: -0.10332537, y: 0.19909808, z: -0.027445683}
+      rotation: {x: -0.0026720315, y: 0.080961525, z: -0.080056116, w: -0.99349344}
+      scale: {x: 1.0000006, y: 1.0000005, z: 1.0000013}
+    - name: R_Elbow
+      parentName: R_Shoulder
+      position: {x: 0.000007820129, y: 0.3192215, z: 0.000018444061}
+      rotation: {x: -0.009927111, y: -0.0013559234, z: -0.0298868, w: 0.9995031}
+      scale: {x: 1.0000002, y: 1.0000006, z: 1.0000002}
+    - name: R_Hand
+      parentName: R_Elbow
+      position: {x: 0.000007836818, y: 0.3003521, z: 0.000018625258}
+      rotation: {x: -0.00006445124, y: -0.00008483626, z: -0.000018217119, w: 1}
+      scale: {x: 1.0000001, y: 1.0000005, z: 1.0000006}
+    - name: R_Thumb1
+      parentName: R_Hand
+      position: {x: 0.08645204, y: 0.072793156, z: 0.071152456}
+      rotation: {x: -0.30844763, y: -0.7099953, z: -0.26298398, w: 0.5758525}
+      scale: {x: 1.0000005, y: 1.0000001, z: 1.0000006}
+    - name: R_Thumb2
+      parentName: R_Thumb1
+      position: {x: 0.000007753372, y: 0.106901415, z: 0.000018033981}
+      rotation: {x: 0.000000039115548, y: -0.000000059604645, z: 0.00000013783574, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000002}
+    - name: R_Index1
+      parentName: R_Hand
+      position: {x: 0.077852726, y: 0.18738681, z: 0.028136091}
+      rotation: {x: 0.08766106, y: -0.16588785, z: -0.06639123, w: 0.97999436}
+      scale: {x: 1.0000005, y: 1, z: 1.0000001}
+    - name: R_Index2
+      parentName: R_Index1
+      position: {x: 0.000007562637, y: 0.09752386, z: 0.000018410683}
+      rotation: {x: 0.00000031292436, y: -0.00000026822087, z: 0.0000009573995, w: 1}
+      scale: {x: 1.0000005, y: 1.0000005, z: 1.0000006}
+    - name: R_Middle1
+      parentName: R_Hand
+      position: {x: 0.025745949, y: 0.20280324, z: 0.008628368}
+      rotation: {x: 0.089635134, y: -0.03511524, z: -0.029805908, w: 0.99490905}
+      scale: {x: 1.0000006, y: 0.9999996, z: 1.0000005}
+    - name: R_Middle2
+      parentName: R_Middle1
+      position: {x: 0.000007677078, y: 0.09992546, z: 0.00001806259}
+      rotation: {x: -0.000000029802315, y: -0.000000033527606, z: -0.00000050803635, w: 1}
+      scale: {x: 0.9999998, y: 1.0000004, z: 1}
+    - name: R_Ring1
+      parentName: R_Hand
+      position: {x: -0.02461141, y: 0.19696905, z: 0.0086363405}
+      rotation: {x: 0.07698437, y: 0.09489148, z: -0.003920067, w: 0.99249876}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000007}
+    - name: R_Ring2
+      parentName: R_Ring1
+      position: {x: 0.000007753372, y: 0.09493931, z: 0.000018234252}
+      rotation: {x: -0.00000004470348, y: -0.00000023841855, z: 0.00000005308538, w: 1}
+      scale: {x: 1, y: 1.0000002, z: 0.9999997}
+    - name: R_Pinky1
+      parentName: R_Hand
+      position: {x: -0.07458704, y: 0.18095359, z: 0.034315366}
+      rotation: {x: 0.07602546, y: 0.24254021, z: 0.007173448, w: 0.96713126}
+      scale: {x: 0.99999964, y: 1, z: 1.0000005}
+    - name: R_Pinky2
+      parentName: R_Pinky1
+      position: {x: 0.000007600784, y: 0.085013196, z: 0.000018100738}
+      rotation: {x: -0, y: -0, z: -0.0000000037252899, w: 1}
+      scale: {x: 1.0000005, y: 1, z: 1.0000002}
+    - name: R_Buffbone_Glb_Hand_Loc
+      parentName: R_Hand
+      position: {x: 0.000007789312, y: -0.000002069473, z: 0.000018243789}
+      rotation: {x: -0.0017112112, y: -0.010141275, z: 0.009740915, w: 0.9998997}
+      scale: {x: 1.0000004, y: 0.99999976, z: 1.0000005}
+    - name: R_Shoulder_Pad
+      parentName: R_Clavicle
+      position: {x: -0.095828325, y: 0.26382548, z: -0.120400175}
+      rotation: {x: -0.47585994, y: 0.033285, z: -0.000952743, w: -0.8788906}
+      scale: {x: 1.0000008, y: 1.0000002, z: 1.0000013}
+    - name: L_Wing1
+      parentName: Spine3
+      position: {x: 0.09880875, y: 0.18537591, z: -0.20699106}
+      rotation: {x: -0.54409367, y: -0.73247397, z: 0.26331332, w: 0.31322554}
+      scale: {x: 0.99999994, y: 1.0000001, z: 0.99999994}
+    - name: L_Wing2
+      parentName: L_Wing1
+      position: {x: -0.000008468925, y: 0.29404342, z: 0.00001813054}
+      rotation: {x: -0.39526117, y: -0.0092565855, z: 0.31162652, w: 0.8640439}
+      scale: {x: 1.0000005, y: 1.0000006, z: 0.9999999}
+    - name: L_SubWing2_1
+      parentName: L_Wing2
+      position: {x: -0.00015850127, y: 0.0315035, z: 0.0010744404}
+      rotation: {x: -0.00076699245, y: 0.001638971, z: -0.36132562, w: 0.93243796}
+      scale: {x: 1.0000001, y: 1.0000013, z: 0.9999995}
+    - name: L_SubWing2_2
+      parentName: L_SubWing2_1
+      position: {x: 0.000013580322, y: 0.25536722, z: 0.000018396377}
+      rotation: {x: -0.12697178, y: 0.013973076, z: 0.19791576, w: 0.9718602}
+      scale: {x: 1.0000008, y: 1.0000006, z: 1.0000006}
+    - name: L_SubWing2_3
+      parentName: L_SubWing2_2
+      position: {x: -0.000005996227, y: 0.29223678, z: 0.000018310546}
+      rotation: {x: 0.0000009089707, y: -0.00000006053596, z: 0.00000011629889, w: 1}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000001}
+    - name: L_Wing_Web1
+      parentName: L_SubWing2_1
+      position: {x: -0.020891929, y: 0.13988686, z: 0.005850925}
+      rotation: {x: 0.54061425, y: -0.4204007, z: 0.5710359, w: 0.45267817}
+      scale: {x: 1.0000004, y: 1, z: 1.0000006}
+    - name: L_Wing_Web2
+      parentName: L_Wing_Web1
+      position: {x: -0.000007116794, y: 0.40572703, z: 0.000017910002}
+      rotation: {x: 0.034253024, y: -0.0030244433, z: 0.0052790926, w: 0.9993947}
+      scale: {x: 1.0000008, y: 1.0000001, z: 1.0000006}
+    - name: L_Wing_Web3
+      parentName: L_Wing_Web2
+      position: {x: -0.000008082389, y: 0.4224696, z: 0.00001868248}
+      rotation: {x: 0.016820027, y: 0.054726105, z: -0.008938752, w: 0.9983197}
+      scale: {x: 0.9999999, y: 1.0000004, z: 1.0000004}
+    - name: L_Wing_Web4
+      parentName: L_Wing_Web3
+      position: {x: -0.000007712841, y: 0.4329451, z: 0.000017342567}
+      rotation: {x: 0.00000005774198, y: -0.00000014901156, z: 0.000000025029285, w: 1}
+      scale: {x: 0.9999998, y: 0.99999964, z: 0.9999995}
+    - name: L_SubWing1_1
+      parentName: L_Wing2
+      position: {x: 0.020517793, y: 0.015894517, z: 0.0002478194}
+      rotation: {x: 0.03514826, y: -0.021723665, z: 0.4974054, w: -0.86653364}
+      scale: {x: 1.0000008, y: 1.0000014, z: 0.99999946}
+    - name: L_SubWing1_2
+      parentName: L_SubWing1_1
+      position: {x: -0.0000064373016, y: 0.3241201, z: 0.00001745224}
+      rotation: {x: 0.087636955, y: 0.030288108, z: -0.22131094, w: -0.97078526}
+      scale: {x: 1.0000002, y: 1.000001, z: 1.0000006}
+    - name: L_SubWing1_3
+      parentName: L_SubWing1_2
+      position: {x: 0.000011150837, y: 0.34319544, z: 0.00001888275}
+      rotation: {x: 0.0000009015199, y: -0.00000013969833, z: 0.00000014156097, w: 1}
+      scale: {x: 1.0000002, y: 1.0000004, z: 0.99999976}
+    - name: L_Wing3
+      parentName: L_Wing1
+      position: {x: 0.018536188, y: 0.30895615, z: -0.0036558579}
+      rotation: {x: 0.27294597, y: 0.28603736, z: 0.39061707, w: -0.8313252}
+      scale: {x: 1.0000013, y: 1.0000013, z: 0.9999999}
+    - name: L_Wing4
+      parentName: L_Wing3
+      position: {x: -0.000008869171, y: 0.33843777, z: 0.000018081664}
+      rotation: {x: -0.092272855, y: -0.10845664, z: 0.29774234, w: 0.9439663}
+      scale: {x: 1.0000002, y: 1.0000008, z: 1.0000001}
+    - name: L_Wing5
+      parentName: L_Wing4
+      position: {x: 0.000011024475, y: 0.4225837, z: 0.000018692017}
+      rotation: {x: 0.0000010281799, y: -0.0000010207293, z: -0.00000019650902, w: 1}
+      scale: {x: 1.0000011, y: 1.0000008, z: 0.9999997}
+    - name: C_Buffbone_Glb_Chest_Loc
+      parentName: Spine3
+      position: {x: 0.0000020432472, y: 0.00001833439, z: -0.000007708072}
+      rotation: {x: -0.000000064028434, y: 1, z: 0.00000008940696, w: 0.00000009313228}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000002}
+    - name: Pelvis
+      parentName: Root
+      position: {x: 0.0001392445, y: -0.05715982, z: -0.009448554}
+      rotation: {x: -1, y: 0.00000000727596, z: -0.000000046566136, w: -2.0328777e-16}
+      scale: {x: 1, y: 0.9999997, z: 1}
+    - name: R_Hip
+      parentName: Pelvis
+      position: {x: -0.0741945, y: 0.020510757, z: 0.012364083}
+      rotation: {x: 0.04507655, y: 0.0002883507, z: 0.008820906, w: 0.9989446}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: R_KneeUpper
+      parentName: R_Hip
+      position: {x: 0.0000076293945, y: 0.5802327, z: 0.000017924309}
+      rotation: {x: 0.50003475, y: -0.49997106, z: -0.50003, w: 0.49996424}
+      scale: {x: 1.0000002, y: 1.0000004, z: 1}
+    - name: R_KneeLower
+      parentName: R_KneeUpper
+      position: {x: 0.0000020098685, y: 0.000018209814, z: -0.000007760525}
+      rotation: {x: -0.4842551, y: 0.5147151, z: 0.48501018, w: 0.5151024}
+      scale: {x: 1, y: 1.0000002, z: 1.0000005}
+    - name: R_Foot
+      parentName: R_KneeLower
+      position: {x: 0.00000772059, y: 0.51195794, z: 0.000018288194}
+      rotation: {x: -0.5315272, y: 0.46689233, z: -0.540165, w: 0.4557546}
+      scale: {x: 1.0000005, y: 1, z: 1.0000008}
+    - name: R_Toe
+      parentName: R_Foot
+      position: {x: -0.08478434, y: 0.12660013, z: -0.0017953382}
+      rotation: {x: -0.00015160999, y: 0.0009861233, z: 0.60626054, w: -0.79526544}
+      scale: {x: 1.000001, y: 1.0000012, z: 1.000001}
+    - name: R_Buffbone_Glb_Foot_Loc
+      parentName: R_Foot
+      position: {x: 0.000001974702, y: -0.000018163322, z: 0.00000774092}
+      rotation: {x: -0.00000004470348, y: -0.0000051707025, z: 0.000000029802319, w: 1}
+      scale: {x: 1.0000005, y: 1.0000007, z: 1.0000002}
+    - name: L_Hip
+      parentName: Pelvis
+      position: {x: 0.07422143, y: 0.020418879, z: 0.012364109}
+      rotation: {x: 0.00882086, y: 0.9989444, z: 0.045079824, w: 0.0002876653}
+      scale: {x: 1.0000007, y: 0.99999994, z: 1.0000006}
+    - name: L_KneeUpper
+      parentName: L_Hip
+      position: {x: -0.000007779654, y: 0.5802172, z: 0.000017268658}
+      rotation: {x: -0.5000283, y: -0.49996674, z: 0.50003225, w: 0.4999728}
+      scale: {x: 1.0000004, y: 1.0000004, z: 0.9999999}
+    - name: L_KneeLower
+      parentName: L_KneeUpper
+      position: {x: 0.0000019606948, y: -0.000018145889, z: 0.000007738676}
+      rotation: {x: 0.48501167, y: 0.51510197, z: -0.4842556, w: 0.51471376}
+      scale: {x: 1.000001, y: 0.9999997, z: 1.0000005}
+    - name: L_Foot
+      parentName: L_KneeLower
+      position: {x: -0.000007946416, y: 0.51194507, z: 0.000018118917}
+      rotation: {x: 0.5400505, y: 0.45561796, z: 0.53320086, w: 0.4652469}
+      scale: {x: 1.0000004, y: 0.9999993, z: 0.9999998}
+    - name: L_Toe
+      parentName: L_Foot
+      position: {x: 0.0847883, y: 0.12659067, z: -0.0017948524}
+      rotation: {x: -0.0008474438, y: -0.0003269743, z: 0.60492516, w: 0.7962819}
+      scale: {x: 1.0000006, y: 1.0000012, z: 1.0000006}
+    - name: L_Buffbone_Glb_Foot_Loc
+      parentName: L_Foot
+      position: {x: 0.0000019839879, y: 0.00001818235, z: -0.000007736771}
+      rotation: {x: -0.000000029802319, y: -0.000005021691, z: 0.000000104308114, w: 1}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000001}
+    - name: Buffbone_Glb_Channel_Loc
+      parentName: model
+      position: {x: 0.0000019836425, y: -0.79999995, z: 1.7999978}
+      rotation: {x: -1.881162e-12, y: 0.000000059604645, z: 1, w: -1.4157564e-12}
+      scale: {x: 1, y: 0.9999997, z: 0.9999997}
+    - name: Buffbone_Glb_Ground_Loc
+      parentName: model
+      position: {x: 0.0000019836425, y: 0.061571196, z: 0.000018177032}
+      rotation: {x: -1.881162e-12, y: 0.000000059604645, z: 1, w: -1.4157564e-12}
+      scale: {x: 1, y: 0.9999997, z: 0.9999997}
+    - name: C_Buffbone_Glb_Center_Loc
+      parentName: model
+      position: {x: 0.0000019836425, y: -0.13236164, z: 1.301149}
+      rotation: {x: -1.881162e-12, y: 0.000000059604645, z: 1, w: -1.4157564e-12}
+      scale: {x: 1, y: 0.9999997, z: 0.9999997}
+    - name: C_Buffbone_Glb_Layout_Loc
+      parentName: model
+      position: {x: 0.0000019836425, y: 0.061571196, z: 0.000018177032}
+      rotation: {x: -1.881162e-12, y: 0.000000059604645, z: 1, w: -1.4157564e-12}
+      scale: {x: 1, y: 0.9999997, z: 0.9999997}
+    - name: C_Buffbone_Glb_Overhead_Loc
+      parentName: model
+      position: {x: 0.0000019836425, y: 0.09427677, z: 2.8331041}
+      rotation: {x: -1.881162e-12, y: 0.000000059604645, z: 1, w: -1.4157564e-12}
+      scale: {x: 1, y: 0.9999997, z: 0.9999997}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
